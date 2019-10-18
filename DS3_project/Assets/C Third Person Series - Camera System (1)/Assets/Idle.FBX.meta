@@ -1,0 +1,1965 @@
+fileFormatVersion: 2
+guid: cf8cc1af377be014e848004ab40829fe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone#Char#Char_Pelvis
+    100002: Bone#Char#Char_Spine
+    100004: Bone#Char_Head#FB_C_Brow
+    100006: Bone#Char_Head#FB_C_Cheeks
+    100008: Bone#Char_Head#FB_L_Brow
+    100010: Bone#Char_Head#FB_L_Crn_Mouth
+    100012: Bone#Char_Head#FB_L_Eyeball
+    100014: Bone#Char_Head#FB_L_Eyelid
+    100016: Bone#Char_Head#FB_R_Brow
+    100018: Bone#Char_Head#FB_R_Crn_Mouth
+    100020: Bone#Char_Head#FB_R_Eyeball
+    100022: Bone#Char_Head#FB_R_Eyelid
+    100024: Bone#Char_Head#PointFB_C_Jaw
+    100026: Bone#Char_Head#PointFB_L_LipUpper
+    100028: Bone#Char_Head#PointFB_R_LipUpper
+    100030: Bone#Char_L_Calf#Char_L_Foot
+    100032: Bone#Char_L_Calf#L_Calf_Roll
+    100034: Bone#Char_L_Clavicle#Char_L_UpperArm
+    100036: Bone#Char_L_Clavicle#L_ArmRoll
+    100038: Bone#Char_L_Clavicle#L_UpperArmRoll
+    100040: Bone#Char_L_Finger0#Char_L_Finger01
+    100042: Bone#Char_L_Finger0#Extra_01
+    100044: Bone#Char_L_Finger0#Extra_02
+    100046: Bone#Char_L_Finger0#Extra_03
+    100048: Bone#Char_L_Finger01#Char_L_Finger02
+    100050: Bone#Char_L_Finger1#Char_L_Finger11
+    100052: Bone#Char_L_Finger11#Char_L_Finger12
+    100054: Bone#Char_L_Finger2#Char_L_Finger21
+    100056: Bone#Char_L_Finger21#Char_L_Finger22
+    100058: Bone#Char_L_Finger3#Char_L_Finger31
+    100060: Bone#Char_L_Finger31#Char_L_Finger32
+    100062: Bone#Char_L_Foot#Char_L_Toe0
+    100064: Bone#Char_L_Forearm#Char_L_Hand
+    100066: Bone#Char_L_Hand#Char_L_Finger0
+    100068: Bone#Char_L_Hand#Char_L_Finger1
+    100070: Bone#Char_L_Hand#Char_L_Finger2
+    100072: Bone#Char_L_Hand#Char_L_Finger3
+    100074: Bone#Char_L_Thigh#Char_L_Calf
+    100076: Bone#Char_L_UpperArm#Char_L_Forearm
+    100078: Bone#Char_L_UpperArm#Char_L_ForeTwist
+    100080: Bone#Char_Neck#Char_Head
+    100082: Bone#Char_Neck#Neck_Roll
+    100084: Bone#Char_Pelvis#Char_L_Thigh
+    100086: Bone#Char_Pelvis#Char_R_Thigh
+    100088: Bone#Char_R_Calf#Char_R_Foot
+    100090: Bone#Char_R_Calf#R_Calf_Roll
+    100092: Bone#Char_R_Clavicle#Char_R_UpperArm
+    100094: Bone#Char_R_Clavicle#R_ArmRoll
+    100096: Bone#Char_R_Clavicle#R_UpperArmRoll
+    100098: Bone#Char_R_Finger0#Char_R_Finger01
+    100100: Bone#Char_R_Finger01#Char_R_Finger02
+    100102: Bone#Char_R_Finger1#Char_R_Finger11
+    100104: Bone#Char_R_Finger11#Char_R_Finger12
+    100106: Bone#Char_R_Finger2#Char_R_Finger21
+    100108: Bone#Char_R_Finger21#Char_R_Finger22
+    100110: Bone#Char_R_Finger3#Char_R_Finger31
+    100112: Bone#Char_R_Finger31#Char_R_Finger32
+    100114: Bone#Char_R_Foot#Char_R_Toe0
+    100116: Bone#Char_R_Forearm#Char_R_Hand
+    100118: Bone#Char_R_Hand#Char_R_Finger0
+    100120: Bone#Char_R_Hand#Char_R_Finger1
+    100122: Bone#Char_R_Hand#Char_R_Finger2
+    100124: Bone#Char_R_Hand#Char_R_Finger3
+    100126: Bone#Char_R_Thigh#Char_R_Calf
+    100128: Bone#Char_R_UpperArm#Char_R_Forearm
+    100130: Bone#Char_R_UpperArm#Char_R_ForeTwist
+    100132: Bone#Char_Spine#Char_Spine1
+    100134: Bone#Char_Spine1#Char_Spine2
+    100136: Bone#Char_Spine2#Char_Spine3
+    100138: Bone#Char_Spine3#Char_L_Clavicle
+    100140: Bone#Char_Spine3#Char_Neck
+    100142: Bone#Char_Spine3#Char_R_Clavicle
+    100144: Bone#FB_C_Jaw#PointFB_L_LipLower
+    100146: Bone#FB_C_Jaw#PointFB_R_LipLower
+    100148: Bone#PlayerModel#Char
+    100150: Bone#PointFB_C_Jaw#FB_C_Jaw
+    100152: Bone#PointFB_L_LipLower#FB_L_LipLower
+    100154: Bone#PointFB_L_LipUpper#FB_L_LipUpper
+    100156: Bone#PointFB_R_LipLower#FB_R_LipLower
+    100158: Bone#PointFB_R_LipUpper#FB_R_LipUpper
+    100160: Char
+    100162: Char_Head
+    100164: Char_L_Calf
+    100166: Char_L_Clavicle
+    100168: Char_L_Finger0
+    100170: Char_L_Finger01
+    100172: Char_L_Finger02
+    100174: Char_L_Finger1
+    100176: Char_L_Finger11
+    100178: Char_L_Finger12
+    100180: Char_L_Finger2
+    100182: Char_L_Finger21
+    100184: Char_L_Finger22
+    100186: Char_L_Finger3
+    100188: Char_L_Finger31
+    100190: Char_L_Finger32
+    100192: Char_L_Foot
+    100194: Char_L_Forearm
+    100196: Char_L_ForeTwist
+    100198: Char_L_Hand
+    100200: Char_L_Thigh
+    100202: Char_L_Toe0
+    100204: Char_L_UpperArm
+    100206: Char_Neck
+    100208: Char_Pelvis
+    100210: Char_R_Calf
+    100212: Char_R_Clavicle
+    100214: Char_R_Finger0
+    100216: Char_R_Finger01
+    100218: Char_R_Finger02
+    100220: Char_R_Finger1
+    100222: Char_R_Finger11
+    100224: Char_R_Finger12
+    100226: Char_R_Finger2
+    100228: Char_R_Finger21
+    100230: Char_R_Finger22
+    100232: Char_R_Finger3
+    100234: Char_R_Finger31
+    100236: Char_R_Finger32
+    100238: Char_R_Foot
+    100240: Char_R_Forearm
+    100242: Char_R_ForeTwist
+    100244: Char_R_Hand
+    100246: Char_R_Thigh
+    100248: Char_R_Toe0
+    100250: Char_R_UpperArm
+    100252: Char_Spine
+    100254: Char_Spine1
+    100256: Char_Spine2
+    100258: Char_Spine3
+    100260: Extra_01
+    100262: Extra_02
+    100264: Extra_03
+    100266: FB_C_Brow
+    100268: FB_C_Cheeks
+    100270: FB_C_Jaw
+    100272: FB_L_Brow
+    100274: FB_L_Crn_Mouth
+    100276: FB_L_Eyeball
+    100278: FB_L_Eyelid
+    100280: FB_L_LipLower
+    100282: FB_L_LipUpper
+    100284: FB_R_Brow
+    100286: FB_R_Crn_Mouth
+    100288: FB_R_Eyeball
+    100290: FB_R_Eyelid
+    100292: FB_R_LipLower
+    100294: FB_R_LipUpper
+    100296: //RootNode
+    100298: L_ArmRoll
+    100300: L_Calf_Roll
+    100302: L_UpperArmRoll
+    100304: Neck_Roll
+    100306: PointFB_C_Jaw
+    100308: PointFB_L_LipLower
+    100310: PointFB_L_LipUpper
+    100312: PointFB_R_LipLower
+    100314: PointFB_R_LipUpper
+    100316: R_ArmRoll
+    100318: R_Calf_Roll
+    100320: R_UpperArmRoll
+    400000: Bone#Char#Char_Pelvis
+    400002: Bone#Char#Char_Spine
+    400004: Bone#Char_Head#FB_C_Brow
+    400006: Bone#Char_Head#FB_C_Cheeks
+    400008: Bone#Char_Head#FB_L_Brow
+    400010: Bone#Char_Head#FB_L_Crn_Mouth
+    400012: Bone#Char_Head#FB_L_Eyeball
+    400014: Bone#Char_Head#FB_L_Eyelid
+    400016: Bone#Char_Head#FB_R_Brow
+    400018: Bone#Char_Head#FB_R_Crn_Mouth
+    400020: Bone#Char_Head#FB_R_Eyeball
+    400022: Bone#Char_Head#FB_R_Eyelid
+    400024: Bone#Char_Head#PointFB_C_Jaw
+    400026: Bone#Char_Head#PointFB_L_LipUpper
+    400028: Bone#Char_Head#PointFB_R_LipUpper
+    400030: Bone#Char_L_Calf#Char_L_Foot
+    400032: Bone#Char_L_Calf#L_Calf_Roll
+    400034: Bone#Char_L_Clavicle#Char_L_UpperArm
+    400036: Bone#Char_L_Clavicle#L_ArmRoll
+    400038: Bone#Char_L_Clavicle#L_UpperArmRoll
+    400040: Bone#Char_L_Finger0#Char_L_Finger01
+    400042: Bone#Char_L_Finger0#Extra_01
+    400044: Bone#Char_L_Finger0#Extra_02
+    400046: Bone#Char_L_Finger0#Extra_03
+    400048: Bone#Char_L_Finger01#Char_L_Finger02
+    400050: Bone#Char_L_Finger1#Char_L_Finger11
+    400052: Bone#Char_L_Finger11#Char_L_Finger12
+    400054: Bone#Char_L_Finger2#Char_L_Finger21
+    400056: Bone#Char_L_Finger21#Char_L_Finger22
+    400058: Bone#Char_L_Finger3#Char_L_Finger31
+    400060: Bone#Char_L_Finger31#Char_L_Finger32
+    400062: Bone#Char_L_Foot#Char_L_Toe0
+    400064: Bone#Char_L_Forearm#Char_L_Hand
+    400066: Bone#Char_L_Hand#Char_L_Finger0
+    400068: Bone#Char_L_Hand#Char_L_Finger1
+    400070: Bone#Char_L_Hand#Char_L_Finger2
+    400072: Bone#Char_L_Hand#Char_L_Finger3
+    400074: Bone#Char_L_Thigh#Char_L_Calf
+    400076: Bone#Char_L_UpperArm#Char_L_Forearm
+    400078: Bone#Char_L_UpperArm#Char_L_ForeTwist
+    400080: Bone#Char_Neck#Char_Head
+    400082: Bone#Char_Neck#Neck_Roll
+    400084: Bone#Char_Pelvis#Char_L_Thigh
+    400086: Bone#Char_Pelvis#Char_R_Thigh
+    400088: Bone#Char_R_Calf#Char_R_Foot
+    400090: Bone#Char_R_Calf#R_Calf_Roll
+    400092: Bone#Char_R_Clavicle#Char_R_UpperArm
+    400094: Bone#Char_R_Clavicle#R_ArmRoll
+    400096: Bone#Char_R_Clavicle#R_UpperArmRoll
+    400098: Bone#Char_R_Finger0#Char_R_Finger01
+    400100: Bone#Char_R_Finger01#Char_R_Finger02
+    400102: Bone#Char_R_Finger1#Char_R_Finger11
+    400104: Bone#Char_R_Finger11#Char_R_Finger12
+    400106: Bone#Char_R_Finger2#Char_R_Finger21
+    400108: Bone#Char_R_Finger21#Char_R_Finger22
+    400110: Bone#Char_R_Finger3#Char_R_Finger31
+    400112: Bone#Char_R_Finger31#Char_R_Finger32
+    400114: Bone#Char_R_Foot#Char_R_Toe0
+    400116: Bone#Char_R_Forearm#Char_R_Hand
+    400118: Bone#Char_R_Hand#Char_R_Finger0
+    400120: Bone#Char_R_Hand#Char_R_Finger1
+    400122: Bone#Char_R_Hand#Char_R_Finger2
+    400124: Bone#Char_R_Hand#Char_R_Finger3
+    400126: Bone#Char_R_Thigh#Char_R_Calf
+    400128: Bone#Char_R_UpperArm#Char_R_Forearm
+    400130: Bone#Char_R_UpperArm#Char_R_ForeTwist
+    400132: Bone#Char_Spine#Char_Spine1
+    400134: Bone#Char_Spine1#Char_Spine2
+    400136: Bone#Char_Spine2#Char_Spine3
+    400138: Bone#Char_Spine3#Char_L_Clavicle
+    400140: Bone#Char_Spine3#Char_Neck
+    400142: Bone#Char_Spine3#Char_R_Clavicle
+    400144: Bone#FB_C_Jaw#PointFB_L_LipLower
+    400146: Bone#FB_C_Jaw#PointFB_R_LipLower
+    400148: Bone#PlayerModel#Char
+    400150: Bone#PointFB_C_Jaw#FB_C_Jaw
+    400152: Bone#PointFB_L_LipLower#FB_L_LipLower
+    400154: Bone#PointFB_L_LipUpper#FB_L_LipUpper
+    400156: Bone#PointFB_R_LipLower#FB_R_LipLower
+    400158: Bone#PointFB_R_LipUpper#FB_R_LipUpper
+    400160: Char
+    400162: Char_Head
+    400164: Char_L_Calf
+    400166: Char_L_Clavicle
+    400168: Char_L_Finger0
+    400170: Char_L_Finger01
+    400172: Char_L_Finger02
+    400174: Char_L_Finger1
+    400176: Char_L_Finger11
+    400178: Char_L_Finger12
+    400180: Char_L_Finger2
+    400182: Char_L_Finger21
+    400184: Char_L_Finger22
+    400186: Char_L_Finger3
+    400188: Char_L_Finger31
+    400190: Char_L_Finger32
+    400192: Char_L_Foot
+    400194: Char_L_Forearm
+    400196: Char_L_ForeTwist
+    400198: Char_L_Hand
+    400200: Char_L_Thigh
+    400202: Char_L_Toe0
+    400204: Char_L_UpperArm
+    400206: Char_Neck
+    400208: Char_Pelvis
+    400210: Char_R_Calf
+    400212: Char_R_Clavicle
+    400214: Char_R_Finger0
+    400216: Char_R_Finger01
+    400218: Char_R_Finger02
+    400220: Char_R_Finger1
+    400222: Char_R_Finger11
+    400224: Char_R_Finger12
+    400226: Char_R_Finger2
+    400228: Char_R_Finger21
+    400230: Char_R_Finger22
+    400232: Char_R_Finger3
+    400234: Char_R_Finger31
+    400236: Char_R_Finger32
+    400238: Char_R_Foot
+    400240: Char_R_Forearm
+    400242: Char_R_ForeTwist
+    400244: Char_R_Hand
+    400246: Char_R_Thigh
+    400248: Char_R_Toe0
+    400250: Char_R_UpperArm
+    400252: Char_Spine
+    400254: Char_Spine1
+    400256: Char_Spine2
+    400258: Char_Spine3
+    400260: Extra_01
+    400262: Extra_02
+    400264: Extra_03
+    400266: FB_C_Brow
+    400268: FB_C_Cheeks
+    400270: FB_C_Jaw
+    400272: FB_L_Brow
+    400274: FB_L_Crn_Mouth
+    400276: FB_L_Eyeball
+    400278: FB_L_Eyelid
+    400280: FB_L_LipLower
+    400282: FB_L_LipUpper
+    400284: FB_R_Brow
+    400286: FB_R_Crn_Mouth
+    400288: FB_R_Eyeball
+    400290: FB_R_Eyelid
+    400292: FB_R_LipLower
+    400294: FB_R_LipUpper
+    400296: //RootNode
+    400298: L_ArmRoll
+    400300: L_Calf_Roll
+    400302: L_UpperArmRoll
+    400304: Neck_Roll
+    400306: PointFB_C_Jaw
+    400308: PointFB_L_LipLower
+    400310: PointFB_L_LipUpper
+    400312: PointFB_R_LipLower
+    400314: PointFB_R_LipUpper
+    400316: R_ArmRoll
+    400318: R_Calf_Roll
+    400320: R_UpperArmRoll
+    7400000: Idle
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'Char_Spine3'
+      : rotation error = 18.151800 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: "\nRetargeting quality report for clip 'Take 001':\n\tLeftUpperArm
+      average position error 54.0 mm and maximum position error 54.0 mm at time 0:
+      0 (0.0%) Frame 0\n\tLeftLowerArm average position error 26.4 mm and maximum
+      position error 26.5 mm at time 0: 5 (17.8%) Frame 5\n\tLeftHand average position
+      error 2.0 mm and maximum position error 2.5 mm at time 0:19 (67.6%) Frame 19\n\tRightUpperArm
+      average position error 54.1 mm and maximum position error 54.1 mm at time 0:11
+      (39.1%) Frame 11\n\tRightLowerArm average position error 26.3 mm and maximum
+      position error 26.3 mm at time 0:16 (56.9%) Frame 16\n\tRightHand average position
+      error 9.2 mm and maximum position error 9.3 mm at time 0:16 (56.9%) Frame 16\n\tHead
+      average position error 74.0 mm and maximum position error 74.0 mm at time 0:11
+      (39.1%) Frame 11\n"
+    animationDoRetargetingWarnings: 1
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Char
+        weight: 1
+      - path: Char/Bone#PlayerModel#Char
+        weight: 0
+      - path: Char/Char_Pelvis
+        weight: 1
+      - path: Char/Char_Pelvis/Bone#Char#Char_Pelvis
+        weight: 0
+      - path: Char/Char_Pelvis/Char_L_Thigh
+        weight: 1
+      - path: Char/Char_Pelvis/Char_L_Thigh/Bone#Char_Pelvis#Char_L_Thigh
+        weight: 0
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf
+        weight: 1
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf/Bone#Char_L_Thigh#Char_L_Calf
+        weight: 0
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf/Char_L_Foot
+        weight: 1
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf/Char_L_Foot/Bone#Char_L_Calf#Char_L_Foot
+        weight: 0
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf/Char_L_Foot/Char_L_Toe0
+        weight: 1
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf/Char_L_Foot/Char_L_Toe0/Bone#Char_L_Foot#Char_L_Toe0
+        weight: 0
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf/L_Calf_Roll
+        weight: 0
+      - path: Char/Char_Pelvis/Char_L_Thigh/Char_L_Calf/L_Calf_Roll/Bone#Char_L_Calf#L_Calf_Roll
+        weight: 0
+      - path: Char/Char_Pelvis/Char_R_Thigh
+        weight: 1
+      - path: Char/Char_Pelvis/Char_R_Thigh/Bone#Char_Pelvis#Char_R_Thigh
+        weight: 0
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf
+        weight: 1
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf/Bone#Char_R_Thigh#Char_R_Calf
+        weight: 0
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf/Char_R_Foot
+        weight: 1
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf/Char_R_Foot/Bone#Char_R_Calf#Char_R_Foot
+        weight: 0
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf/Char_R_Foot/Char_R_Toe0
+        weight: 1
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf/Char_R_Foot/Char_R_Toe0/Bone#Char_R_Foot#Char_R_Toe0
+        weight: 0
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf/R_Calf_Roll
+        weight: 0
+      - path: Char/Char_Pelvis/Char_R_Thigh/Char_R_Calf/R_Calf_Roll/Bone#Char_R_Calf#R_Calf_Roll
+        weight: 0
+      - path: Char/Char_Spine
+        weight: 1
+      - path: Char/Char_Spine/Bone#Char#Char_Spine
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Bone#Char_Spine#Char_Spine1
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Bone#Char_Spine1#Char_Spine2
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Bone#Char_Spine2#Char_Spine3
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Bone#Char_Spine3#Char_L_Clavicle
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Bone#Char_L_Clavicle#Char_L_UpperArm
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Bone#Char_L_UpperArm#Char_L_Forearm
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Bone#Char_L_Forearm#Char_L_Hand
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Bone#Char_L_Hand#Char_L_Finger0
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Char_L_Finger01
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Char_L_Finger01/Bone#Char_L_Finger0#Char_L_Finger01
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Char_L_Finger01/Char_L_Finger02
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Char_L_Finger01/Char_L_Finger02/Bone#Char_L_Finger01#Char_L_Finger02
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Extra_01
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Extra_01/Bone#Char_L_Finger0#Extra_01
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Extra_02
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Extra_02/Bone#Char_L_Finger0#Extra_02
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Extra_03
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger0/Extra_03/Bone#Char_L_Finger0#Extra_03
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger1
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger1/Bone#Char_L_Hand#Char_L_Finger1
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger1/Char_L_Finger11
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger1/Char_L_Finger11/Bone#Char_L_Finger1#Char_L_Finger11
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger1/Char_L_Finger11/Char_L_Finger12
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger1/Char_L_Finger11/Char_L_Finger12/Bone#Char_L_Finger11#Char_L_Finger12
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger2
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger2/Bone#Char_L_Hand#Char_L_Finger2
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger2/Char_L_Finger21
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger2/Char_L_Finger21/Bone#Char_L_Finger2#Char_L_Finger21
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger2/Char_L_Finger21/Char_L_Finger22
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger2/Char_L_Finger21/Char_L_Finger22/Bone#Char_L_Finger21#Char_L_Finger22
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger3
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger3/Bone#Char_L_Hand#Char_L_Finger3
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger3/Char_L_Finger31
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger3/Char_L_Finger31/Bone#Char_L_Finger3#Char_L_Finger31
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger3/Char_L_Finger31/Char_L_Finger32
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_Forearm/Char_L_Hand/Char_L_Finger3/Char_L_Finger31/Char_L_Finger32/Bone#Char_L_Finger31#Char_L_Finger32
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_ForeTwist
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/Char_L_UpperArm/Char_L_ForeTwist/Bone#Char_L_UpperArm#Char_L_ForeTwist
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/L_ArmRoll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/L_ArmRoll/Bone#Char_L_Clavicle#L_ArmRoll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/L_UpperArmRoll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_L_Clavicle/L_UpperArmRoll/Bone#Char_L_Clavicle#L_UpperArmRoll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Bone#Char_Spine3#Char_Neck
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/Bone#Char_Neck#Char_Head
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_C_Brow
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_C_Brow/Bone#Char_Head#FB_C_Brow
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_C_Cheeks
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_C_Cheeks/Bone#Char_Head#FB_C_Cheeks
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Brow
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Brow/Bone#Char_Head#FB_L_Brow
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Crn_Mouth
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Crn_Mouth/Bone#Char_Head#FB_L_Crn_Mouth
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Eyeball
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Eyeball/Bone#Char_Head#FB_L_Eyeball
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Eyelid
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_L_Eyelid/Bone#Char_Head#FB_L_Eyelid
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Brow
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Brow/Bone#Char_Head#FB_R_Brow
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Crn_Mouth
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Crn_Mouth/Bone#Char_Head#FB_R_Crn_Mouth
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Eyeball
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Eyeball/Bone#Char_Head#FB_R_Eyeball
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Eyelid
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/FB_R_Eyelid/Bone#Char_Head#FB_R_Eyelid
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/Bone#Char_Head#PointFB_C_Jaw
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/Bone#Char_Head#PointFB_C_Jaw/Bone#PointFB_C_Jaw#FB_C_Jaw
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/Bone#Char_Head#PointFB_C_Jaw/Bone#PointFB_C_Jaw#FB_C_Jaw/Bone#FB_C_Jaw#PointFB_L_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/Bone#Char_Head#PointFB_C_Jaw/Bone#PointFB_C_Jaw#FB_C_Jaw/Bone#FB_C_Jaw#PointFB_L_LipLower/Bone#PointFB_L_LipLower#FB_L_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/Bone#Char_Head#PointFB_C_Jaw/Bone#PointFB_C_Jaw#FB_C_Jaw/Bone#FB_C_Jaw#PointFB_R_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/Bone#Char_Head#PointFB_C_Jaw/Bone#PointFB_C_Jaw#FB_C_Jaw/Bone#FB_C_Jaw#PointFB_R_LipLower/Bone#PointFB_R_LipLower#FB_R_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/FB_C_Jaw
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/FB_C_Jaw/PointFB_L_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/FB_C_Jaw/PointFB_L_LipLower/FB_L_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/FB_C_Jaw/PointFB_R_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_C_Jaw/FB_C_Jaw/PointFB_R_LipLower/FB_R_LipLower
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_L_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_L_LipUpper/Bone#Char_Head#PointFB_L_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_L_LipUpper/Bone#Char_Head#PointFB_L_LipUpper/Bone#PointFB_L_LipUpper#FB_L_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_L_LipUpper/FB_L_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_R_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_R_LipUpper/Bone#Char_Head#PointFB_R_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_R_LipUpper/Bone#Char_Head#PointFB_R_LipUpper/Bone#PointFB_R_LipUpper#FB_R_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Char_Head/PointFB_R_LipUpper/FB_R_LipUpper
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Neck_Roll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_Neck/Neck_Roll/Bone#Char_Neck#Neck_Roll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Bone#Char_Spine3#Char_R_Clavicle
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Bone#Char_R_Clavicle#Char_R_UpperArm
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Bone#Char_R_UpperArm#Char_R_Forearm
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Bone#Char_R_Forearm#Char_R_Hand
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger0
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger0/Bone#Char_R_Hand#Char_R_Finger0
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger0/Char_R_Finger01
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger0/Char_R_Finger01/Bone#Char_R_Finger0#Char_R_Finger01
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger0/Char_R_Finger01/Char_R_Finger02
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger0/Char_R_Finger01/Char_R_Finger02/Bone#Char_R_Finger01#Char_R_Finger02
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger1
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger1/Bone#Char_R_Hand#Char_R_Finger1
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger1/Char_R_Finger11
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger1/Char_R_Finger11/Bone#Char_R_Finger1#Char_R_Finger11
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger1/Char_R_Finger11/Char_R_Finger12
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger1/Char_R_Finger11/Char_R_Finger12/Bone#Char_R_Finger11#Char_R_Finger12
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger2
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger2/Bone#Char_R_Hand#Char_R_Finger2
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger2/Char_R_Finger21
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger2/Char_R_Finger21/Bone#Char_R_Finger2#Char_R_Finger21
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger2/Char_R_Finger21/Char_R_Finger22
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger2/Char_R_Finger21/Char_R_Finger22/Bone#Char_R_Finger21#Char_R_Finger22
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger3
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger3/Bone#Char_R_Hand#Char_R_Finger3
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger3/Char_R_Finger31
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger3/Char_R_Finger31/Bone#Char_R_Finger3#Char_R_Finger31
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger3/Char_R_Finger31/Char_R_Finger32
+        weight: 1
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_Forearm/Char_R_Hand/Char_R_Finger3/Char_R_Finger31/Char_R_Finger32/Bone#Char_R_Finger31#Char_R_Finger32
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_ForeTwist
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/Char_R_UpperArm/Char_R_ForeTwist/Bone#Char_R_UpperArm#Char_R_ForeTwist
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/R_ArmRoll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/R_ArmRoll/Bone#Char_R_Clavicle#R_ArmRoll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/R_UpperArmRoll
+        weight: 0
+      - path: Char/Char_Spine/Char_Spine1/Char_Spine2/Char_Spine3/Char_R_Clavicle/R_UpperArmRoll/Bone#Char_R_Clavicle#R_UpperArmRoll
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Char
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FB_L_Eyeball
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FB_R_Eyeball
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PointFB_C_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger0
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger01
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger02
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger11
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger12
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger2
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger21
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger22
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger3
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger31
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_L_Finger32
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger02
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger11
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger12
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger2
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger21
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger22
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger3
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger31
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Char_R_Finger32
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Idle(Clone)
+      parentName: 
+      position: {x: -0.00000898452, y: -0.00010047065, z: 0.000009968528}
+      rotation: {x: -0.63462335, y: -0.30716208, z: -0.33978266, w: 0.6224568}
+      scale: {x: 47.217476, y: 47.217476, z: 47.217476}
+    - name: Char
+      parentName: Idle(Clone)
+      position: {x: -0.00030940282, y: -0.00033986627, z: 0.009326158}
+      rotation: {x: -0.013783038, y: 0.035243943, z: -0.9527395, w: -0.30142224}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#PlayerModel#Char
+      parentName: Char
+      position: {x: 0.00022720994, y: 0.000000044092776, z: 0.00059855945}
+      rotation: {x: 0.000052748437, y: -0.56794184, z: 0.00007639533, w: 0.8230687}
+      scale: {x: 0.021178598, y: 0.0211786, z: 0.021178598}
+    - name: Char_Pelvis
+      parentName: Char
+      position: {x: 1.8626451e-11, y: 0, z: 0}
+      rotation: {x: -0.5000002, y: 0.49999985, z: 0.49999955, w: 0.5000005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char#Char_Pelvis
+      parentName: Char_Pelvis
+      position: {x: 0.0000000047683715, y: 1.02436386e-10, z: 0.0000000018994615}
+      rotation: {x: 0.50000286, y: 0.49999723, z: -0.50000286, w: -0.49999708}
+      scale: {x: 0.0211786, y: 0.0211786, z: 0.0211786}
+    - name: Char_L_Thigh
+      parentName: Char_Pelvis
+      position: {x: -0, y: -7.4505804e-11, z: 0.0012849501}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Pelvis#Char_L_Thigh
+      parentName: Char_L_Thigh
+      position: {x: 0.000038787908, y: 0.000031895117, z: 0.0012839662}
+      rotation: {x: 0.71766883, y: 0.010696007, z: 0.6962693, w: 0.006800189}
+      scale: {x: 0.021178598, y: 0.0211786, z: 0.0211786}
+    - name: Char_L_Calf
+      parentName: Char_L_Thigh
+      position: {x: -0.0041580102, y: -1.11758706e-10, z: -4.4703483e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_L_Thigh#Char_L_Calf
+      parentName: Char_L_Calf
+      position: {x: 0.0041576955, y: -0.000050311384, z: -0.000000001490116}
+      rotation: {x: 0.996466, y: -0.006028872, z: 0.000507157, w: -0.08377942}
+      scale: {x: 0.021178603, y: 0.021178607, z: 0.021178603}
+    - name: Char_L_Foot
+      parentName: Char_L_Calf
+      position: {x: -0.00403307, y: 1.4901161e-10, z: 3.72529e-10}
+      rotation: {x: -0.026323302, y: 0.0612661, z: -0.041068126, w: 0.9969288}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Bone#Char_L_Calf#Char_L_Foot
+      parentName: Char_L_Foot
+      position: {x: 0.004031124, y: 0.000025049596, z: 0.00012296558}
+      rotation: {x: 0.9948342, y: 0.0015602078, z: 0.015481665, w: 0.10031382}
+      scale: {x: 0.021178601, y: 0.021178603, z: 0.021178598}
+    - name: Char_L_Toe0
+      parentName: Char_L_Foot
+      position: {x: -0.0009813391, y: 0.0012532702, z: -2.9802322e-10}
+      rotation: {x: -0.000000564942, y: -0.00000056494156, z: -0.70710707, w: 0.7071065}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_L_Foot#Char_L_Toe0
+      parentName: Char_L_Toe0
+      position: {x: 0.0012532617, y: 0.0009813439, z: -0.0000000055134297}
+      rotation: {x: -0.6684577, y: -0.23057137, z: 0.23057164, w: 0.66845936}
+      scale: {x: 0.021178612, y: 0.0211786, z: 0.021178609}
+    - name: L_Calf_Roll
+      parentName: Char_L_Calf
+      position: {x: -0.000000009834766, y: 0, z: -0.00000057995317}
+      rotation: {x: 0.0000000074505744, y: -0.00000094622396, z: -0.0000000074505753,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_L_Calf#L_Calf_Roll
+      parentName: L_Calf_Roll
+      position: {x: -0.000000038146972, y: 8.9406965e-10, z: 0.00000057742}
+      rotation: {x: 0.7133675, y: -0.0025347285, z: 0.7007814, w: 0.0024004935}
+      scale: {x: 0.021178598, y: 0.021178607, z: 0.021178596}
+    - name: Char_R_Thigh
+      parentName: Char_Pelvis
+      position: {x: -1.4901161e-10, y: -1.4901161e-10, z: -0.00128495}
+      rotation: {x: 0, y: -1, z: 0, w: 0}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_Pelvis#Char_R_Thigh
+      parentName: Char_R_Thigh
+      position: {x: 0.000038792237, y: 0.000031891148, z: -0.0012839702}
+      rotation: {x: 0.00679826, y: 0.69626766, z: 0.010695935, w: 0.7176704}
+      scale: {x: 0.021178598, y: 0.0211786, z: 0.021178601}
+    - name: Char_R_Calf
+      parentName: Char_R_Thigh
+      position: {x: -0.0041580102, y: -3.7252902e-11, z: -1.4901161e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_R_Thigh#Char_R_Calf
+      parentName: Char_R_Calf
+      position: {x: 0.0041577048, y: -0.000050311683, z: -0.0000000020861626}
+      rotation: {x: -0.08377511, y: 0.00050661684, z: -0.0060286475, w: 0.99646634}
+      scale: {x: 0.021178603, y: 0.021178603, z: 0.021178603}
+    - name: Char_R_Foot
+      parentName: Char_R_Calf
+      position: {x: -0.0040330696, y: -1.4901161e-10, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Bone#Char_R_Calf#Char_R_Foot
+      parentName: Char_R_Foot
+      position: {x: 0.0040311054, y: 0.000025047175, z: -0.00012297183}
+      rotation: {x: 0.10030111, y: 0.015481252, z: 0.001560884, w: 0.9948355}
+      scale: {x: 0.021178607, y: 0.0211786, z: 0.021178603}
+    - name: Char_R_Toe0
+      parentName: Char_R_Foot
+      position: {x: -0.0009813386, y: 0.0012532704, z: -1.4901161e-10}
+      rotation: {x: -0.00000050663954, y: -0.0000005662442, z: -0.7071066, w: 0.70710695}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Bone#Char_R_Foot#Char_R_Toe0
+      parentName: Char_R_Toe0
+      position: {x: 0.0012532616, y: 0.0009813273, z: -0.0000000070035457}
+      rotation: {x: -0.66845757, y: -0.23057145, z: 0.23057209, w: 0.66845936}
+      scale: {x: 0.021178601, y: 0.02117859, z: 0.0211786}
+    - name: R_Calf_Roll
+      parentName: Char_R_Calf
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000010244549, y: 7.632785e-17, z: 0.0000000074505815, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_R_Calf#R_Calf_Roll
+      parentName: R_Calf_Roll
+      position: {x: -2.9802322e-10, y: -0.0000000011920929, z: -0.0000000031292438}
+      rotation: {x: 0.011016175, y: 0.69621384, z: 0.0063559613, w: 0.71772176}
+      scale: {x: 0.021178607, y: 0.021178605, z: 0.021178605}
+    - name: Char_Spine
+      parentName: Char
+      position: {x: 0.00043310106, y: 0.00000012503169, z: 0.00072246126}
+      rotation: {x: -0.5071321, y: 0.48361307, z: 0.49748132, w: 0.51131964}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone#Char#Char_Spine
+      parentName: Char_Spine
+      position: {x: 0.00073588133, y: 0.00034147, z: -0.00000011533964}
+      rotation: {x: -0.69060695, y: -0.15237485, z: 0.15242739, w: 0.69036937}
+      scale: {x: 0.021178603, y: 0.021178605, z: 0.021178603}
+    - name: Char_Spine1
+      parentName: Char_Spine
+      position: {x: -0.0007045302, y: -0.000000609979, z: 2.2118911e-11}
+      rotation: {x: -0.003340239, y: -0.005775898, z: -0.018546456, w: 0.99980575}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: Bone#Char_Spine#Char_Spine1
+      parentName: Char_Spine1
+      position: {x: 0.00070454826, y: 0.00000060994176, z: 0.0000000018836}
+      rotation: {x: -0.7072001, y: -0.00043293435, z: -0.00000005668645, w: 0.7070133}
+      scale: {x: 0.021178609, y: 0.021178614, z: 0.021178609}
+    - name: Char_Spine2
+      parentName: Char_Spine1
+      position: {x: -0.00076841994, y: -0.00000092998147, z: 4.6566128e-12}
+      rotation: {x: -0.00000006798655, y: 0.00000013411045, z: 0.13012668, w: 0.9914974}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Bone#Char_Spine1#Char_Spine2
+      parentName: Char_Spine2
+      position: {x: 0.0007684421, y: 0.0000009296648, z: 0.0000000019883737}
+      rotation: {x: -0.70720637, y: -0.0004281034, z: 0.0004279827, w: 0.707007}
+      scale: {x: 0.02117862, y: 0.021178618, z: 0.021178612}
+    - name: Char_Spine3
+      parentName: Char_Spine2
+      position: {x: -0.0011655393, y: -0.0000019300169, z: 4.6566126e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone#Char_Spine2#Char_Spine3
+      parentName: Char_Spine3
+      position: {x: 0.0011649445, y: 0.000038093625, z: 0.0000000018626451}
+      rotation: {x: -0.707069, y: -0.0115579255, z: 0.011556077, w: 0.70695573}
+      scale: {x: 0.021178618, y: 0.021178616, z: 0.021178612}
+    - name: Char_L_Clavicle
+      parentName: Char_Spine3
+      position: {x: -0.0017678501, y: -0.00018421993, z: 0.00042028006}
+      rotation: {x: -0.68048275, y: -0.008289675, z: 0.73268235, w: 0.007143905}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Bone#Char_Spine3#Char_L_Clavicle
+      parentName: Char_L_Clavicle
+      position: {x: 0.00041679377, y: -0.00022631518, z: -0.0017638066}
+      rotation: {x: 0.112785384, y: 0.59836257, z: -0.16691715, w: 0.7754872}
+      scale: {x: 0.02117863, y: 0.021178612, z: 0.021178618}
+    - name: Char_L_UpperArm
+      parentName: Char_L_Clavicle
+      position: {x: -0.0015266602, y: 0, z: -2.9802322e-10}
+      rotation: {x: 0.18186459, y: 0.014148019, z: -0.0046588182, w: 0.9832108}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone#Char_L_Clavicle#Char_L_UpperArm
+      parentName: Char_L_UpperArm
+      position: {x: 0.0008091834, y: 0.00004366174, z: -0.0012938319}
+      rotation: {x: -0.01615536, y: 0.48408216, z: 0.025294833, w: 0.87450767}
+      scale: {x: 0.021178624, y: 0.021178603, z: 0.02117863}
+    - name: Char_L_Forearm
+      parentName: Char_L_UpperArm
+      position: {x: -0.0028848893, y: -1.4901161e-10, z: -1.4901161e-10}
+      rotation: {x: -0.002890169, y: 0.010014554, z: 0.024940971, w: 0.9996346}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Bone#Char_L_UpperArm#Char_L_Forearm
+      parentName: Char_L_Forearm
+      position: {x: 0.002873564, y: -0.00025502458, z: -0.000000013113022}
+      rotation: {x: -0.04871359, y: 0.0021576628, z: -0.044190727, w: 0.9978324}
+      scale: {x: 0.021178622, y: 0.021178598, z: 0.021178631}
+    - name: Char_L_Hand
+      parentName: Char_L_Forearm
+      position: {x: -0.002662069, y: 3.72529e-10, z: 1.4901161e-10}
+      rotation: {x: -0.7954267, y: -0.030188283, z: -0.09818893, w: 0.59728044}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Bone#Char_L_Forearm#Char_L_Hand
+      parentName: Char_L_Hand
+      position: {x: 0.0026619525, y: 0.000010541081, z: 0.000018193125}
+      rotation: {x: 0.7226015, y: -0.00093189656, z: 0.0038378504, w: 0.69125366}
+      scale: {x: 0.021178626, y: 0.021178594, z: 0.02117863}
+    - name: Char_L_Finger0
+      parentName: Char_L_Hand
+      position: {x: -0.00018315106, y: 0.00013972, z: -0.00019258999}
+      rotation: {x: 0.68030727, y: -0.15113685, z: 0.14593518, w: 0.70216995}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: Bone#Char_L_Hand#Char_L_Finger0
+      parentName: Char_L_Finger0
+      position: {x: 0.00028692227, y: 0.000051708146, z: -0.00007177323}
+      rotation: {x: 0.615742, y: 0.14880702, z: -0.007157566, w: 0.77373576}
+      scale: {x: 0.021178627, y: 0.021178639, z: 0.021178601}
+    - name: Char_L_Finger01
+      parentName: Char_L_Finger0
+      position: {x: -0.00036609083, y: -0.000000001490116, z: -2.9802322e-10}
+      rotation: {x: -0.000000059604623, y: -0.000000670552, z: -0.030288171, w: 0.9995412}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone#Char_L_Finger0#Char_L_Finger01
+      parentName: Char_L_Finger01
+      position: {x: 0.00036457894, y: 0.000033121407, z: 0.000000014603137}
+      rotation: {x: 0.74064565, y: 0.033565994, z: 0.030381389, w: 0.6703688}
+      scale: {x: 0.021178626, y: 0.02117864, z: 0.021178603}
+    - name: Char_L_Finger02
+      parentName: Char_L_Finger01
+      position: {x: -0.0002978596, y: 7.4505804e-11, z: 0}
+      rotation: {x: -0.019528769, y: 0.8210838, z: 0.5703131, w: 0.013532579}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Bone#Char_L_Finger01#Char_L_Finger02
+      parentName: Char_L_Finger02
+      position: {x: 0.0002975142, y: 0.000014134292, z: 0.0000000140070915}
+      rotation: {x: 0.7475033, y: 0.017737485, z: 0.015751665, w: 0.66383445}
+      scale: {x: 0.021178624, y: 0.021178633, z: 0.021178594}
+    - name: Extra_01
+      parentName: Char_L_Finger0
+      position: {x: -0.00292799, y: -0.0008371185, z: -0.0042920597}
+      rotation: {x: 0.36786813, y: -0.3617299, z: -0.5784519, w: 0.631837}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: Bone#Char_L_Finger0#Extra_01
+      parentName: Extra_01
+      position: {x: -0.000497124, y: 0.005202784, z: -0.0006161593}
+      rotation: {x: 0.61885047, y: 0.7097864, z: 0.2084074, w: 0.264185}
+      scale: {x: 0.021178639, y: 0.021178603, z: 0.02117863}
+    - name: Extra_02
+      parentName: Char_L_Finger0
+      position: {x: -0.00292799, y: -0.0008371185, z: -0.0042920597}
+      rotation: {x: 0.5538691, y: 0.12940548, z: -0.6400409, w: 0.51655686}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Bone#Char_L_Finger0#Extra_02
+      parentName: Extra_02
+      position: {x: -0.0036194085, y: 0.0037384408, z: -0.0007872103}
+      rotation: {x: 0.24228068, y: 0.7007134, z: 0.59403276, w: 0.3121314}
+      scale: {x: 0.021178639, y: 0.0211786, z: 0.021178624}
+    - name: Extra_03
+      parentName: Char_L_Finger0
+      position: {x: -0.00292799, y: -0.0008371185, z: -0.0042920597}
+      rotation: {x: 0.48314852, y: -0.30014068, z: -0.08731629, w: 0.81783795}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Bone#Char_L_Finger0#Extra_03
+      parentName: Extra_03
+      position: {x: 0.0037384378, y: 0.0036194106, z: -0.00078721077}
+      rotation: {x: 0.666797, y: 0.32416117, z: 0.19933452, w: 0.64075506}
+      scale: {x: 0.021178637, y: 0.021178594, z: 0.021178618}
+    - name: Char_L_Finger1
+      parentName: Char_L_Hand
+      position: {x: -0.00090561016, y: -0.00008855193, z: -0.00027592003}
+      rotation: {x: 0.09369069, y: -0.09736089, z: -0.0020525523, w: 0.9908273}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Bone#Char_L_Hand#Char_L_Finger1
+      parentName: Char_L_Finger1
+      position: {x: 0.0009277533, y: 0.0001489377, z: 0.00014540255}
+      rotation: {x: 0.8343052, y: 0.024336051, z: 0.10740024, w: 0.54019237}
+      scale: {x: 0.021178627, y: 0.021178596, z: 0.021178637}
+    - name: Char_L_Finger11
+      parentName: Char_L_Finger1
+      position: {x: -0.0004496202, y: 2.9802322e-10, z: 2.9802322e-10}
+      rotation: {x: -0.00000023096793, y: 0.0000007674096, z: -0.032920267, w: 0.999458}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone#Char_L_Finger1#Char_L_Finger11
+      parentName: Char_L_Finger11
+      position: {x: 0.00044958122, y: 0.0000028520822, z: 0.000000001490116}
+      rotation: {x: 0.8038749, y: 0.0025519729, z: 0.0018877626, w: 0.59479}
+      scale: {x: 0.021178618, y: 0.02117859, z: 0.021178627}
+    - name: Char_L_Finger12
+      parentName: Char_L_Finger11
+      position: {x: -0.00025272203, y: 0.0000000023841857, z: -3.72529e-10}
+      rotation: {x: 0.0000010578337, y: -0.000014318986, z: -0.99999326, w: -0.003690211}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Bone#Char_L_Finger11#Char_L_Finger12
+      parentName: Char_L_Finger12
+      position: {x: 0.00025268568, y: 0.0000018647313, z: 0.0000000023841857}
+      rotation: {x: 0.8048524, y: 0.0029720236, z: 0.0021922071, w: 0.59346354}
+      scale: {x: 0.021178622, y: 0.021178596, z: 0.021178627}
+    - name: Char_L_Finger2
+      parentName: Char_L_Hand
+      position: {x: -0.00093808275, y: -0.00017573088, z: -0.000034250057}
+      rotation: {x: -0.033744626, y: -0.1073153, z: -0.016157556, w: 0.9935209}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: Bone#Char_L_Hand#Char_L_Finger2
+      parentName: Char_L_Finger2
+      position: {x: 0.0009163666, y: 0.00026485263, z: 0.000045568755}
+      rotation: {x: 0.72147095, y: 0.08560209, z: 0.113478296, w: 0.6776981}
+      scale: {x: 0.021178627, y: 0.021178607, z: 0.021178637}
+    - name: Char_L_Finger21
+      parentName: Char_L_Finger2
+      position: {x: -0.00045503152, y: -2.9802322e-10, z: -3.7252902e-11}
+      rotation: {x: -0.00000049173815, y: 0.00000058859564, z: -0.026292473, w: 0.99965435}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Bone#Char_L_Finger2#Char_L_Finger21
+      parentName: Char_L_Finger21
+      position: {x: 0.0004548928, y: 0.000008994191, z: -0.0000000028312206}
+      rotation: {x: 0.70944893, y: 0.007012759, z: 0.006966229, w: 0.7046876}
+      scale: {x: 0.021178637, y: 0.021178603, z: 0.02117863}
+    - name: Char_L_Finger22
+      parentName: Char_L_Finger21
+      position: {x: -0.00033358863, y: 0.0000000017881393, z: -3.7252902e-11}
+      rotation: {x: -0.000004592962, y: 0.000027670167, z: -0.99948394, w: -0.03212416}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: Bone#Char_L_Finger21#Char_L_Finger22
+      parentName: Char_L_Finger22
+      position: {x: 0.0003328471, y: 0.000021414906, z: -0.0000000027939677}
+      rotation: {x: 0.7092147, y: 0.022795055, z: 0.022636564, w: 0.70426023}
+      scale: {x: 0.021178626, y: 0.021178609, z: 0.02117863}
+    - name: Char_L_Finger3
+      parentName: Char_L_Hand
+      position: {x: -0.000846411, y: -0.000112260575, z: 0.00020024012}
+      rotation: {x: -0.046171043, y: -0.10371183, z: -0.012327783, w: 0.9934587}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Bone#Char_L_Hand#Char_L_Finger3
+      parentName: Char_L_Finger3
+      position: {x: 0.0008593272, y: 0.00016048759, z: -0.00006962504}
+      rotation: {x: 0.666794, y: 0.09123881, z: 0.041521914, w: 0.7384695}
+      scale: {x: 0.021178631, y: 0.021178605, z: 0.021178637}
+    - name: Char_L_Finger31
+      parentName: Char_L_Finger3
+      position: {x: -0.0004354599, y: 0.0000000011920929, z: 5.5879353e-11}
+      rotation: {x: -0.000000011175866, y: -0.0000013858073, z: -0.020173224, w: 0.99979657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_L_Finger3#Char_L_Finger31
+      parentName: Char_L_Finger31
+      position: {x: 0.000434356, y: 0.000030518473, z: -0.000000007599592}
+      rotation: {x: 0.7050346, y: 0.024739226, z: 0.024854356, w: 0.7083054}
+      scale: {x: 0.021178627, y: 0.021178607, z: 0.021178637}
+    - name: Char_L_Finger32
+      parentName: Char_L_Finger31
+      position: {x: -0.00031103028, y: -2.9802322e-10, z: 2.7939676e-10}
+      rotation: {x: 0.021950403, y: -0.9005849, z: 0.43399692, w: 0.010575209}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone#Char_L_Finger31#Char_L_Finger32
+      parentName: Char_L_Finger32
+      position: {x: 0.00031062574, y: 0.000015143453, z: -0.00000000834465}
+      rotation: {x: 0.7050313, y: 0.017179497, z: 0.017270487, w: 0.70875776}
+      scale: {x: 0.021178627, y: 0.021178605, z: 0.021178631}
+    - name: Char_L_ForeTwist
+      parentName: Char_L_UpperArm
+      position: {x: -0.0028848893, y: -1.4901161e-10, z: 0}
+      rotation: {x: -0.000000014869361, y: 0.00000001121814, z: 0.2772727, w: 0.9607913}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Bone#Char_L_UpperArm#Char_L_ForeTwist
+      parentName: Char_L_ForeTwist
+      position: {x: 0.0028735735, y: -0.00025502517, z: -0.000000008642673}
+      rotation: {x: -0.048713595, y: 0.0021576188, z: -0.044190727, w: 0.9978324}
+      scale: {x: 0.021178626, y: 0.021178598, z: 0.021178622}
+    - name: L_ArmRoll
+      parentName: Char_L_Clavicle
+      position: {x: -0.0017755002, y: 0, z: -5.9604643e-10}
+      rotation: {x: -0.0063459203, y: -0.48418772, z: -0.02319395, w: 0.87463367}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone#Char_L_Clavicle#L_ArmRoll
+      parentName: L_ArmRoll
+      position: {x: 0.00094109535, y: 0.00008294716, z: -0.001503283}
+      rotation: {x: -0.0068031354, y: 0.48378444, z: 0.030470278, w: 0.87463015}
+      scale: {x: 0.021178624, y: 0.02117861, z: 0.02117863}
+    - name: L_UpperArmRoll
+      parentName: Char_L_Clavicle
+      position: {x: 1.8626451e-11, y: 0, z: -5.9604643e-10}
+      rotation: {x: 0.99997944, y: 0.0000014309478, z: -0.000000009181596, w: -0.006416312}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone#Char_L_Clavicle#L_UpperArmRoll
+      parentName: L_UpperArmRoll
+      position: {x: 3.7252902e-11, y: 8.9406965e-10, z: 0.000000021457671}
+      rotation: {x: 0.5932055, y: -0.5381258, z: -0.44833124, w: -0.39689663}
+      scale: {x: 0.021178616, y: 0.02117862, z: 0.021178607}
+    - name: Char_Neck
+      parentName: Char_Spine3
+      position: {x: -0.0024327312, y: -0.000017060042, z: 0.0000005899742}
+      rotation: {x: 0.13186415, y: 0.031437233, z: -0.08454653, w: 0.98715526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Spine3#Char_Neck
+      parentName: Char_Neck
+      position: {x: 0.0024029785, y: 0.0003798513, z: -0.0000005936995}
+      rotation: {x: 0.7085189, y: 0.055740755, z: 0.055003047, w: 0.7013335}
+      scale: {x: 0.021178622, y: 0.021178614, z: 0.021178616}
+    - name: Char_Head
+      parentName: Char_Neck
+      position: {x: -0.0009622195, y: -1.4901161e-10, z: 0}
+      rotation: {x: 0.118160926, y: -0.018060548, z: 0.07663881, w: 0.98986787}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone#Char_Neck#Char_Head
+      parentName: Char_Head
+      position: {x: 0.00095354137, y: -0.0001291199, z: 0.000000014305114}
+      rotation: {x: 0.70547897, y: -0.04755381, z: -0.047546968, w: 0.7055334}
+      scale: {x: 0.021178626, y: 0.021178618, z: 0.02117862}
+    - name: FB_C_Brow
+      parentName: Char_Head
+      position: {x: -0.0007458508, y: 0.0006151601, z: -0.00000059001144}
+      rotation: {x: -0.00004714523, y: 0.00006426115, z: -0.59256756, w: 0.8055208}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Head#FB_C_Brow
+      parentName: FB_C_Brow
+      position: {x: 0.00080932584, y: 0.0005289006, z: 0.00000070914626}
+      rotation: {x: 0.6775802, y: 0.20149212, z: 0.20210485, w: 0.6778198}
+      scale: {x: 0.021178618, y: 0.021178616, z: 0.021178631}
+    - name: FB_C_Cheeks
+      parentName: Char_Head
+      position: {x: -0.00047938048, y: 0.00050768995, z: -0.000000609979}
+      rotation: {x: -0.000038167294, y: 0.000070049115, z: -0.6926351, w: 0.72128814}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Bone#Char_Head#FB_C_Cheeks
+      parentName: FB_C_Cheeks
+      position: {x: 0.00052669516, y: 0.00045844197, z: 0.00000070519746}
+      rotation: {x: 0.66215485, y: 0.24742077, z: 0.24825546, w: 0.6623467}
+      scale: {x: 0.021178622, y: 0.02117862, z: 0.02117863}
+    - name: FB_L_Brow
+      parentName: Char_Head
+      position: {x: -0.00078358053, y: 0.00054514006, z: 0.00015891998}
+      rotation: {x: 0.12102194, y: 0.13020092, z: -0.5831425, w: 0.79268295}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_Head#FB_L_Brow
+      parentName: FB_L_Brow
+      position: {x: 0.0007661295, y: 0.0005843562, z: 0.000089640016}
+      rotation: {x: 0.66723263, y: 0.19016452, z: 0.26074183, w: 0.671306}
+      scale: {x: 0.021178618, y: 0.021178616, z: 0.021178627}
+    - name: FB_L_Crn_Mouth
+      parentName: Char_Head
+      position: {x: -0.00008960128, y: 0.00063306984, z: -0.00032028998}
+      rotation: {x: -0.6532575, y: 0.65330577, z: 0.27065152, w: 0.27054387}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Head#FB_L_Crn_Mouth
+      parentName: FB_L_Crn_Mouth
+      position: {x: 0.00022115707, y: -0.00008957326, z: -0.00067413715}
+      rotation: {x: -0.59176403, y: 0.45388335, z: 0.37330824, w: 0.5517664}
+      scale: {x: 0.021178622, y: 0.021178618, z: 0.021178627}
+    - name: FB_L_Eyeball
+      parentName: Char_Head
+      position: {x: -0.0008237874, y: 0.00096688024, z: 0.00034788996}
+      rotation: {x: -0.00005676254, y: 0.00005712823, z: -0.7090556, w: 0.7051526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Head#FB_L_Eyeball
+      parentName: FB_L_Eyeball
+      position: {x: 0.00096232444, y: 0.00082919176, z: -0.0003477563}
+      rotation: {x: 0.69056576, y: 0.34630415, z: 0.12137147, w: 0.6232667}
+      scale: {x: 0.021178616, y: 0.021178618, z: 0.021178627}
+    - name: FB_L_Eyelid
+      parentName: Char_Head
+      position: {x: -0.0007810187, y: 0.00080868986, z: 0.00034807995}
+      rotation: {x: -0.00005156859, y: 0.00006218101, z: -0.6376722, w: 0.77030784}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone#Char_Head#FB_L_Eyelid
+      parentName: FB_L_Eyelid
+      position: {x: 0.0009403371, y: 0.00061633467, z: -0.0003479538}
+      rotation: {x: 0.7234886, y: 0.31138206, z: 0.059606973, w: 0.61323124}
+      scale: {x: 0.02117862, y: 0.021178616, z: 0.021178624}
+    - name: FB_R_Brow
+      parentName: Char_Head
+      position: {x: -0.0007836288, y: 0.00054487993, z: -0.00016065993}
+      rotation: {x: 0.7927043, y: -0.58312285, z: 0.13007316, w: 0.121114746}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Bone#Char_Head#FB_R_Brow
+      parentName: FB_R_Brow
+      position: {x: 0.000766592, y: -0.00058434665, z: 0.00008768648}
+      rotation: {x: -0.6677664, y: 0.19104896, z: -0.25977868, w: 0.6708975}
+      scale: {x: 0.02117862, y: 0.021178616, z: 0.021178624}
+    - name: FB_R_Crn_Mouth
+      parentName: Char_Head
+      position: {x: -0.00008598983, y: 0.0005983001, z: 0.00030558003}
+      rotation: {x: -0.27393883, y: -0.2579582, z: -0.6513183, w: 0.65893817}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Head#FB_R_Crn_Mouth
+      parentName: FB_R_Crn_Mouth
+      position: {x: 0.00021765701, y: 0.00009273529, z: -0.0006346388}
+      rotation: {x: 0.6028183, y: 0.4490947, z: -0.37098882, w: 0.5452443}
+      scale: {x: 0.02117862, y: 0.021178616, z: 0.021178631}
+    - name: FB_R_Eyeball
+      parentName: Char_Head
+      position: {x: -0.0008248704, y: 0.0009668802, z: -0.00034695}
+      rotation: {x: -0.7051526, y: 0.7090556, z: 0.000057335736, w: -0.000057024066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Head#FB_R_Eyeball
+      parentName: FB_R_Eyeball
+      position: {x: 0.0009623194, y: -0.00083016336, z: -0.00034708428}
+      rotation: {x: -0.6903793, y: 0.34629917, z: -0.12188577, w: 0.6233756}
+      scale: {x: 0.021178624, y: 0.021178616, z: 0.02117863}
+    - name: FB_R_Eyelid
+      parentName: Char_Head
+      position: {x: -0.0007822096, y: 0.00080869, z: -0.00034752}
+      rotation: {x: 0.7703085, y: -0.6376714, z: -0.00006326299, w: 0.00005137416}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone#Char_Head#FB_R_Eyelid
+      parentName: FB_R_Eyelid
+      position: {x: 0.0009405376, y: -0.00061739207, z: -0.00034764907}
+      rotation: {x: -0.7233237, y: 0.31150046, z: -0.06004709, w: 0.6133226}
+      scale: {x: 0.021178622, y: 0.021178616, z: 0.02117863}
+    - name: PointFB_C_Jaw
+      parentName: Char_Head
+      position: {x: -0.00013044834, y: 0.0003323701, z: -0.0000006899983}
+      rotation: {x: 0.50129384, y: -0.4987028, z: 0.5012937, w: 0.49870294}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_Head#PointFB_C_Jaw
+      parentName: PointFB_C_Jaw
+      position: {x: 0.00000069141385, y: -0.00012874842, z: 0.00033304354}
+      rotation: {x: -0.40041533, y: -0.3992591, z: -0.5827742, w: 0.5836386}
+      scale: {x: 0.021178614, y: 0.021178618, z: 0.02117863}
+    - name: Bone#PointFB_C_Jaw#FB_C_Jaw
+      parentName: Bone#Char_Head#PointFB_C_Jaw
+      position: {x: -0.016859168, y: 0, z: 0.000000019073486}
+      rotation: {x: 0.00016654776, y: -0.16316858, z: -0.0010066809, w: 0.9865977}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: Bone#FB_C_Jaw#PointFB_L_LipLower
+      parentName: Bone#PointFB_C_Jaw#FB_C_Jaw
+      position: {x: -0.000000026226044, y: 0.0000000023841857, z: 0.000000019073486}
+      rotation: {x: 0.000004966334, y: -0.12946223, z: 0.0000380672, w: 0.99158436}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bone#PointFB_L_LipLower#FB_L_LipLower
+      parentName: Bone#FB_C_Jaw#PointFB_L_LipLower
+      position: {x: -0.046639163, y: 0.000000009536743, z: 0.000000038146972}
+      rotation: {x: 0.060649388, y: 0.114377, z: 0.4645288, w: 0.8760437}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Bone#FB_C_Jaw#PointFB_R_LipLower
+      parentName: Bone#PointFB_C_Jaw#FB_C_Jaw
+      position: {x: -0.000000026226044, y: 0.0000000023841857, z: 0.000000019073486}
+      rotation: {x: 0.000004966334, y: -0.12946223, z: 0.0000380672, w: 0.99158436}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bone#PointFB_R_LipLower#FB_R_LipLower
+      parentName: Bone#FB_C_Jaw#PointFB_R_LipLower
+      position: {x: -0.046639163, y: 0.000000009536743, z: 0.000000038146972}
+      rotation: {x: 0.060649388, y: 0.114377, z: 0.4645288, w: 0.8760437}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: FB_C_Jaw
+      parentName: PointFB_C_Jaw
+      position: {x: -0, y: 0, z: -3.72529e-10}
+      rotation: {x: 0.69664156, y: 0.12122529, z: 0.6966154, w: 0.1213342}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PointFB_L_LipLower
+      parentName: FB_C_Jaw
+      position: {x: -0.000979909, y: -0.00012422919, z: -0.000000030025838}
+      rotation: {x: 0.6965856, y: 0.12152658, z: 0.6965853, w: -0.121526636}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: FB_L_LipLower
+      parentName: PointFB_L_LipLower
+      position: {x: -5.9604643e-10, y: 0, z: -2.9802322e-10}
+      rotation: {x: 0.6015025, y: -0.35620373, z: 0.7011854, w: -0.14018817}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: PointFB_R_LipLower
+      parentName: FB_C_Jaw
+      position: {x: -0.000979909, y: -0.00012422919, z: -0.000000030025838}
+      rotation: {x: 0.6965856, y: 0.12152658, z: 0.6965853, w: -0.121526636}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: FB_R_LipLower
+      parentName: PointFB_R_LipLower
+      position: {x: -5.9604643e-10, y: 0, z: -2.9802322e-10}
+      rotation: {x: 0.7010844, y: -0.14037265, z: 0.60167915, w: -0.3560315}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: PointFB_L_LipUpper
+      parentName: Char_Head
+      position: {x: -0.000046400426, y: 0.0010113801, z: 0.00024546994}
+      rotation: {x: 0.50129384, y: -0.4987028, z: 0.5012937, w: 0.49870294}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_Head#PointFB_L_LipUpper
+      parentName: PointFB_L_LipUpper
+      position: {x: -0.00024546616, y: -0.00004118204, z: 0.0010116089}
+      rotation: {x: 0.42818335, y: 0.5443547, z: 0.5670016, w: -0.44592175}
+      scale: {x: 0.02117862, y: 0.021178624, z: 0.021178627}
+    - name: Bone#PointFB_L_LipUpper#FB_L_LipUpper
+      parentName: Bone#Char_Head#PointFB_L_LipUpper
+      position: {x: -0.04919006, y: 0, z: 0}
+      rotation: {x: 0.00017230168, y: -0.000020444055, z: 0.99293596, w: -0.11865163}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999997}
+    - name: FB_L_LipUpper
+      parentName: PointFB_L_LipUpper
+      position: {x: -0, y: 0, z: 2.9802322e-10}
+      rotation: {x: 0.57880235, y: 0.28271407, z: 0.55634195, w: 0.524923}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: PointFB_R_LipUpper
+      parentName: Char_Head
+      position: {x: -0.000046480298, y: 0.00101139, z: -0.00024549}
+      rotation: {x: 0.50129384, y: -0.4987028, z: 0.5012937, w: 0.49870294}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_Head#PointFB_R_LipUpper
+      parentName: PointFB_R_LipUpper
+      position: {x: 0.00024549008, y: -0.0000412631, z: 0.0010116191}
+      rotation: {x: -0.5443412, y: -0.42815718, z: -0.44593748, w: 0.5670219}
+      scale: {x: 0.021178614, y: 0.021178622, z: 0.021178631}
+    - name: Bone#PointFB_R_LipUpper#FB_R_LipUpper
+      parentName: Bone#Char_Head#PointFB_R_LipUpper
+      position: {x: -0.049190897, y: 0.000000007152557, z: 0}
+      rotation: {x: 0.0001272929, y: -0.00004563814, z: 0.9411741, w: -0.33792222}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: FB_R_LipUpper
+      parentName: PointFB_R_LipUpper
+      position: {x: 5.9604643e-10, y: 0, z: 3.72529e-10}
+      rotation: {x: -0.28267112, y: -0.5788226, z: 0.524705, w: 0.55654836}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Neck_Roll
+      parentName: Char_Neck
+      position: {x: -0.00000001013279, y: -1.4901161e-10, z: 9.3132255e-12}
+      rotation: {x: 0.000020490419, y: 0.0000011705661, z: 0.033642117, w: 0.999434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_Neck#Neck_Roll
+      parentName: Neck_Roll
+      position: {x: 0.00000001847744, y: -2.9802322e-10, z: 6.426126e-10}
+      rotation: {x: 0.7085331, y: -0.022568125, z: -0.023097996, w: 0.7049383}
+      scale: {x: 0.02117862, y: 0.021178616, z: 0.021178612}
+    - name: Char_R_Clavicle
+      parentName: Char_Spine3
+      position: {x: -0.0017678505, y: -0.00018421009, z: -0.00042027986}
+      rotation: {x: 0.68667585, y: -0.024550766, z: 0.7261606, w: -0.023756808}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: Bone#Char_Spine3#Char_R_Clavicle
+      parentName: Char_R_Clavicle
+      position: {x: 0.00041678912, y: -0.00022630989, z: 0.001763806}
+      rotation: {x: 0.775488, y: -0.16691183, z: 0.598364, w: 0.11278017}
+      scale: {x: 0.02117862, y: 0.021178609, z: 0.021178616}
+    - name: Char_R_UpperArm
+      parentName: Char_R_Clavicle
+      position: {x: -0.0015266603, y: 1.4901161e-10, z: 2.9802322e-10}
+      rotation: {x: -0.21698055, y: -0.021355558, z: -0.024110535, w: 0.97564447}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_R_Clavicle#Char_R_UpperArm
+      parentName: Char_R_UpperArm
+      position: {x: 0.0008091834, y: 0.000043743697, z: 0.0012938301}
+      rotation: {x: 0.87450683, y: 0.025318893, z: 0.48408273, w: -0.016144192}
+      scale: {x: 0.02117861, y: 0.021178614, z: 0.021178614}
+    - name: Char_R_Forearm
+      parentName: Char_R_UpperArm
+      position: {x: -0.0028848895, y: 0, z: 5.9604643e-10}
+      rotation: {x: 0.0020041761, y: -0.008659628, z: 0.02433251, w: 0.9996645}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone#Char_R_UpperArm#Char_R_Forearm
+      parentName: Char_R_Forearm
+      position: {x: 0.0028735732, y: -0.00025502325, z: 0.000000009834766}
+      rotation: {x: 0.9978323, y: -0.044190586, z: 0.0021571035, w: -0.048715543}
+      scale: {x: 0.021178624, y: 0.021178612, z: 0.021178614}
+    - name: Char_R_Hand
+      parentName: Char_R_Forearm
+      position: {x: -0.00266207, y: 7.45058e-10, z: 0}
+      rotation: {x: 0.75503427, y: -0.061257403, z: -0.17517717, w: 0.628875}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Bone#Char_R_Forearm#Char_R_Hand
+      parentName: Char_R_Hand
+      position: {x: 0.0026619532, y: 0.000010553897, z: -0.000018194243}
+      rotation: {x: 0.69125545, y: 0.0038372516, z: -0.00093254854, w: 0.7225997}
+      scale: {x: 0.021178612, y: 0.021178609, z: 0.021178622}
+    - name: Char_R_Finger0
+      parentName: Char_R_Hand
+      position: {x: -0.00018315077, y: 0.00013972014, z: 0.00019259013}
+      rotation: {x: -0.70354486, y: 0.13957796, z: 0.10711998, w: 0.688526}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_R_Hand#Char_R_Finger0
+      parentName: Char_R_Finger0
+      position: {x: 0.00028689395, y: 0.000051725132, z: 0.00007177889}
+      rotation: {x: 0.77373606, y: -0.007157237, z: 0.14880763, w: 0.61574155}
+      scale: {x: 0.02117862, y: 0.021178624, z: 0.021178607}
+    - name: Char_R_Finger01
+      parentName: Char_R_Finger0
+      position: {x: -0.00036609164, y: 0.000000001117587, z: -5.9604643e-10}
+      rotation: {x: 0.000000029802308, y: -0.00000029802308, z: -0.04136001, w: 0.9991444}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: Bone#Char_R_Finger0#Char_R_Finger01
+      parentName: Char_R_Finger01
+      position: {x: 0.0003645515, y: 0.000033135115, z: -0.000000011324882}
+      rotation: {x: 0.6703689, y: 0.03037841, z: 0.033564, w: 0.74064577}
+      scale: {x: 0.021178622, y: 0.021178631, z: 0.02117861}
+    - name: Char_R_Finger02
+      parentName: Char_R_Finger01
+      position: {x: -0.00029786176, y: -3.72529e-10, z: 8.9406965e-10}
+      rotation: {x: -0.000023777859, y: 0.000055894965, z: -0.99971765, w: -0.02376258}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone#Char_R_Finger01#Char_R_Finger02
+      parentName: Char_R_Finger02
+      position: {x: 0.0002974855, y: 0.000014150105, z: -0.000000012218952}
+      rotation: {x: 0.66383034, y: 0.015754031, z: 0.017736962, w: 0.74750686}
+      scale: {x: 0.021178627, y: 0.021178624, z: 0.021178609}
+    - name: Char_R_Finger1
+      parentName: Char_R_Hand
+      position: {x: -0.0009056085, y: -0.000088549554, z: 0.00027591994}
+      rotation: {x: -0.090687566, y: 0.1030585, z: -0.0043189772, w: 0.9905231}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone#Char_R_Hand#Char_R_Finger1
+      parentName: Char_R_Finger1
+      position: {x: 0.0009277342, y: 0.00014895767, z: -0.00014540768}
+      rotation: {x: 0.5401933, y: 0.10739921, z: 0.024334608, w: 0.8343048}
+      scale: {x: 0.021178624, y: 0.021178609, z: 0.021178616}
+    - name: Char_R_Finger11
+      parentName: Char_R_Finger1
+      position: {x: -0.00044961943, y: 2.9802322e-10, z: -1.4901161e-10}
+      rotation: {x: -0.00000012665984, y: 0.0000015199181, z: -0.017073583, w: 0.9998543}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Bone#Char_R_Finger1#Char_R_Finger11
+      parentName: Char_R_Finger11
+      position: {x: 0.00044956713, y: 0.0000028721988, z: -0.000000008493662}
+      rotation: {x: 0.59479094, y: 0.001887351, z: 0.002550444, w: 0.8038742}
+      scale: {x: 0.021178618, y: 0.021178622, z: 0.021178616}
+    - name: Char_R_Finger12
+      parentName: Char_R_Finger11
+      position: {x: -0.0002527201, y: -0.0000000011920929, z: -3.72529e-10}
+      rotation: {x: -0.000014006919, y: 0.00011874273, z: -0.999993, w: -0.003735451}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Bone#Char_R_Finger11#Char_R_Finger12
+      parentName: Char_R_Finger12
+      position: {x: 0.00025266886, y: 0.000001887381, z: -0.000000008419156}
+      rotation: {x: 0.5934698, y: 0.0021952176, z: 0.0029778432, w: 0.8048478}
+      scale: {x: 0.02117862, y: 0.021178618, z: 0.02117861}
+    - name: Char_R_Finger2
+      parentName: Char_R_Hand
+      position: {x: -0.0009380793, y: -0.00017572968, z: 0.000034249908}
+      rotation: {x: 0.046766326, y: 0.11548017, z: -0.01988975, w: 0.992009}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_R_Hand#Char_R_Finger2
+      parentName: Char_R_Finger2
+      position: {x: 0.0009163666, y: 0.00026488333, z: -0.000045568868}
+      rotation: {x: 0.6776991, y: 0.1134779, z: 0.0856013, w: 0.7214701}
+      scale: {x: 0.021178626, y: 0.021178609, z: 0.021178616}
+    - name: Char_R_Finger21
+      parentName: Char_R_Finger2
+      position: {x: -0.00045502975, y: 0, z: 1.11758706e-10}
+      rotation: {x: -0.00000006705521, y: 0.0000021979208, z: -0.016466938, w: 0.99986446}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone#Char_R_Finger2#Char_R_Finger21
+      parentName: Char_R_Finger21
+      position: {x: 0.00045488327, y: 0.000009029805, z: 0.000000002682209}
+      rotation: {x: 0.7046887, y: 0.0069656223, z: 0.0070120627, w: 0.70944774}
+      scale: {x: 0.021178616, y: 0.021178618, z: 0.021178627}
+    - name: Char_R_Finger22
+      parentName: Char_R_Finger21
+      position: {x: -0.00033358842, y: 8.9406965e-10, z: 7.4505804e-11}
+      rotation: {x: 0.0000071943678, y: -0.000014500679, z: -0.99948215, w: -0.03218017}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone#Char_R_Finger21#Char_R_Finger22
+      parentName: Char_R_Finger22
+      position: {x: 0.00033284156, y: 0.000021454915, z: 0.0000000031292438}
+      rotation: {x: 0.704262, y: 0.022635946, z: 0.022794798, w: 0.70921296}
+      scale: {x: 0.021178631, y: 0.021178616, z: 0.02117862}
+    - name: Char_R_Finger3
+      parentName: Char_R_Hand
+      position: {x: -0.0008464104, y: -0.00011225879, z: -0.00020024009}
+      rotation: {x: 0.08358294, y: 0.11952175, z: -0.021556083, w: 0.9890722}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: Bone#Char_R_Hand#Char_R_Finger3
+      parentName: Char_R_Finger3
+      position: {x: 0.000855951, y: 0.00011463016, z: 0.00015244796}
+      rotation: {x: 0.7703642, y: -0.004308764, z: 0.10930955, w: 0.6281496}
+      scale: {x: 0.02117863, y: 0.02117861, z: 0.021178618}
+    - name: Char_R_Finger31
+      parentName: Char_R_Finger3
+      position: {x: -0.00043545783, y: -5.9604643e-10, z: -1.4901161e-10}
+      rotation: {x: 0.00000034272662, y: -0.0000015273687, z: -0.02220128, w: 0.9997536}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone#Char_R_Finger3#Char_R_Finger31
+      parentName: Char_R_Finger31
+      position: {x: 0.00043433695, y: 0.00003053963, z: 0.0000000015646219}
+      rotation: {x: 0.70175785, y: 0.024625866, z: 0.024969272, w: 0.71155185}
+      scale: {x: 0.021178631, y: 0.021178607, z: 0.021178614}
+    - name: Char_R_Finger32
+      parentName: Char_R_Finger31
+      position: {x: -0.00031103342, y: 0.000000001490116, z: 1.4901161e-10}
+      rotation: {x: 0.022861427, y: -0.93664795, z: 0.34942174, w: 0.008514275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone#Char_R_Finger31#Char_R_Finger32
+      parentName: Char_R_Finger32
+      position: {x: 0.0003106117, y: 0.000015159547, z: 0.0000000014156103}
+      rotation: {x: 0.7013614, y: 0.017088234, z: 0.017356653, w: 0.7123896}
+      scale: {x: 0.021178627, y: 0.021178609, z: 0.021178612}
+    - name: Char_R_ForeTwist
+      parentName: Char_R_UpperArm
+      position: {x: -0.0028848897, y: 0, z: 5.9604643e-10}
+      rotation: {x: 0.0000000022189601, y: 0.00000002345608, z: 0.22547503, w: 0.97424895}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone#Char_R_UpperArm#Char_R_ForeTwist
+      parentName: Char_R_ForeTwist
+      position: {x: 0.0028735825, y: -0.00025502397, z: 0.000000006556511}
+      rotation: {x: 0.9978323, y: -0.044190586, z: 0.0021570495, w: -0.04871557}
+      scale: {x: 0.021178627, y: 0.021178607, z: 0.021178618}
+    - name: R_ArmRoll
+      parentName: Char_R_Clavicle
+      position: {x: -0.0017755, y: 2.9802322e-10, z: -5.9604643e-10}
+      rotation: {x: 0.0063586915, y: 0.48418823, z: -0.023217455, w: 0.87463266}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone#Char_R_Clavicle#R_ArmRoll
+      parentName: R_ArmRoll
+      position: {x: 0.0009410861, y: 0.000083042825, z: 0.0015032825}
+      rotation: {x: 0.87462944, y: 0.030493822, z: 0.4837844, w: -0.006791194}
+      scale: {x: 0.021178616, y: 0.021178605, z: 0.02117862}
+    - name: R_UpperArmRoll
+      parentName: Char_R_Clavicle
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.99997944, y: 0.00000002698389, z: 0.000000003898505, w: 0.006416244}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Bone#Char_R_Clavicle#R_UpperArmRoll
+      parentName: R_UpperArmRoll
+      position: {x: -0, y: -0.0000000019371509, z: -0.00000002324581}
+      rotation: {x: 0.02122923, y: -0.0046994137, z: 0.05311584, w: 0.99835163}
+      scale: {x: 0.021178612, y: 0.02117861, z: 0.021178609}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
